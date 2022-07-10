@@ -1,0 +1,9 @@
+#项目上线阶段使用的配置文件
+server:
+  port: 9002
+  servlet:
+    context-path: /online
+student:
+  name: 【上线阶段】AK-47
+  age: 78
+  sex: 未知

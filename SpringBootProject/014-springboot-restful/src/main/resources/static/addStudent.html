@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+        <form action="student/zhangsan/20" method="post">
+            <input type="submit" value="注册学生,POST请求"/>
+        </form>
+        <br>
+        <form action="student/15/20" method="post">
+            <!--注意写法-->
+            <input type="hidden" name="_method" value="put">
+            <input type="submit" value="更新学生,PUT请求" />
+        </form>
+        <br>
+        <form action="student/1" method="post">
+            <input type="hidden" name="_method" value="delete">
+            <input type="submit" value="删除学生,DELETE请求" />
+        </form>
+        <br>
+</body>
+</html>

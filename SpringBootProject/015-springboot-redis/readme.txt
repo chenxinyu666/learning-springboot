@@ -1,0 +1,4 @@
+Redis的添加数据、读取数据（string类型）
+利用RedisTemplate类，注意对象的名称为redisTemplate
+设置key和value的序列化方式
+然后获取String类型数据的操作对象valueOperations，进行操作即可

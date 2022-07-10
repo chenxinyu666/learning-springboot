@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="010-springboot-servlet" />
+        <module name="006-springboot-multi-environment" />
+        <module name="015-springboot-redis" />
+        <module name="011-springboot-mapper" />
+        <module name="009-springboot-interceptor" />
+        <module name="005-springboot-mvc" />
+        <module name="008-springboot-container" />
+        <module name="007-springboot-jsp" />
+        <module name="012-springboot-mapperscan" />
+        <module name="013-springboot-transaction" />
+        <module name="interface-api" />
+        <module name="014-springboot-restful" />
+        <module name="service-consumer" />
+        <module name="service-provider" />
+        <module name="001-springboot-pre" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="001-springboot-pre" target="17" />
+      <module name="002-springboot-first" target="17" />
+      <module name="003-springboot-second" target="17" />
+      <module name="004-springboot-third" target="17" />
+      <module name="005-springboot-mvc" target="17" />
+      <module name="006-springboot-multi-environment" target="17" />
+      <module name="007-springboot-jsp" target="17" />
+      <module name="008-springboot-container" target="17" />
+      <module name="009-springboot-interceptor" target="17" />
+      <module name="010-springboot-servlet" target="17" />
+      <module name="011-springboot-mapper" target="17" />
+      <module name="012-springboot-mapperscan" target="17" />
+      <module name="013-springboot-transaction" target="17" />
+      <module name="014-springboot-restful" target="17" />
+      <module name="015-springboot-redis" target="17" />
+      <module name="016-springboot-dubbo" target="1.8" />
+      <module name="interface-api" target="1.8" />
+      <module name="service-consumer" target="1.8" />
+      <module name="service-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="001-springboot-pre" options="" />
+      <module name="002-springboot-first" options="-parameters" />
+      <module name="003-springboot-second" options="-parameters" />
+      <module name="004-springboot-third" options="-parameters" />
+      <module name="005-springboot-mvc" options="-parameters" />
+      <module name="006-springboot-multi-environment" options="-parameters" />
+      <module name="007-springboot-jsp" options="-parameters" />
+      <module name="008-springboot-container" options="-parameters" />
+      <module name="009-springboot-interceptor" options="-parameters" />
+      <module name="010-springboot-servlet" options="-parameters" />
+      <module name="011-springboot-mapper" options="-parameters" />
+      <module name="012-springboot-mapperscan" options="-parameters" />
+      <module name="013-springboot-transaction" options="-parameters" />
+      <module name="014-springboot-restful" options="-parameters" />
+      <module name="015-springboot-redis" options="-parameters" />
+      <module name="016-springboot-dubbo" options="-parameters" />
+      <module name="interface-api" options="-parameters" />
+      <module name="service-consumer" options="-parameters" />
+      <module name="service-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

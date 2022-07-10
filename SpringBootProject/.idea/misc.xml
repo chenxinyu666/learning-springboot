@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/007-springboot-jsp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/001-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/001-springboot-pre/pom.xml" />
+        <option value="$PROJECT_DIR$/003-springboot-seconde/003-springboot-second/pom.xml" />
+        <option value="$PROJECT_DIR$/005-springboot-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/006-springboot-multi-environment/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/007-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/008-springboot-container/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/011-springboot-mybatis/011-springboot-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/012-springboot-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/011/pom.xml" />
+        <option value="$PROJECT_DIR$/011-springboot-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/012-springboot-mapperscan/pom.xml" />
+        <option value="$PROJECT_DIR$/013-springboot-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/014-springboot-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/015-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/016-springboot-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/016-springboot-dubbo/service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/016-springboot-dubbo/service-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

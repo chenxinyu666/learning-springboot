@@ -1,0 +1,9 @@
+#项目测试阶段使用的配置文件
+server:
+  port: 8082
+  servlet:
+    context-path: /test
+student:
+  name: 【测试阶段】张三娘
+  age: 23
+  sex: 女
