@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.bjpowernode</groupId>
-    <artifactId>_006-springboot-multi-environment</artifactId>
+    <artifactId>006-springboot-multi-environment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>006-springboot-multi-environment</name>
     <description>006-springboot-multi-environment</description>

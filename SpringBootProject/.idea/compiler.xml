@@ -40,6 +40,7 @@
       <module name="014-springboot-restful" target="17" />
       <module name="015-springboot-redis" target="17" />
       <module name="016-springboot-dubbo" target="1.8" />
+      <module name="017-springboot-junit" target="17" />
       <module name="interface-api" target="1.8" />
       <module name="service-consumer" target="1.8" />
       <module name="service-provider" target="1.8" />
@@ -63,6 +64,7 @@
       <module name="014-springboot-restful" options="-parameters" />
       <module name="015-springboot-redis" options="-parameters" />
       <module name="016-springboot-dubbo" options="-parameters" />
+      <module name="017-springboot-junit" options="-parameters" />
       <module name="interface-api" options="-parameters" />
       <module name="service-consumer" options="-parameters" />
       <module name="service-provider" options="-parameters" />

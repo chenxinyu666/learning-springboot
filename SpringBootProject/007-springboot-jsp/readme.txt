@@ -25,8 +25,14 @@
 -----------------------------------------------------------------
 测试SpringBoot打包jar
 1、在pom文件中设置打包后的文件名以及打包类型为jar
-2、如果使用了MyBatis，在pom文件中添加MyBatis的放在src/main/java目录下的xml文件
-3、把src/main/resources下的所有文件都包含到classes目录中
+2、如果使用了MyBatis，在pom文件中添加MyBatis的放在src/main/java目录下的xml文件：
+            <!--使用MyBatis，而且Mapper文件放在src/main/java目录-->
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </resource>
+3、在pom文件中设置把src/main/resources下的所有文件都包含到classes目录中
 4、打包jar，有jsp文件时，必须指定maven-plugin插件的版本是1.4.2.RELEASE
-5、通过命令java -jar myboot.jar来启动项目
-6、即可访问，注意端口号是项目配置文件中设置的端口号。
+5、

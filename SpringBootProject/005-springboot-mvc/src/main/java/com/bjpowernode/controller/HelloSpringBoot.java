@@ -14,7 +14,7 @@ public class HelloSpringBoot {
     public String helloSpringBoot(){
         return "欢迎使用SpringBoot框架";
     }
-    //声明Bean把对象注入到容器中
+    //@Bean把方法返回的对象注入到容器中
     @Bean
     public Student createStudent(){
         Student student = new Student();

@@ -4,6 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 @Component
+//将配置文件中以student为前缀的属性值赋给Student类的对象
 @ConfigurationProperties(prefix = "student")
 public class Student {
     private String name;
