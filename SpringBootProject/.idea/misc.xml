@@ -27,6 +27,8 @@
         <option value="$PROJECT_DIR$/016-springboot-dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/016-springboot-dubbo/service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/016-springboot-dubbo/service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/017-springboot-RabbitMQ-Producer/pom.xml" />
+        <option value="$PROJECT_DIR$/017-springboot-RabbitMQ-Consumer/pom.xml" />
       </list>
     </option>
   </component>

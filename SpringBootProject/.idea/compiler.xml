@@ -9,10 +9,12 @@
         <module name="010-springboot-servlet" />
         <module name="006-springboot-multi-environment" />
         <module name="015-springboot-redis" />
+        <module name="017-springboot-RabbitMQ-Producer" />
         <module name="011-springboot-mapper" />
         <module name="009-springboot-interceptor" />
         <module name="005-springboot-mvc" />
         <module name="008-springboot-container" />
+        <module name="017-springboot-RabbitMQ-Consumer" />
         <module name="007-springboot-jsp" />
         <module name="012-springboot-mapperscan" />
         <module name="013-springboot-transaction" />
@@ -41,6 +43,8 @@
       <module name="015-springboot-redis" target="17" />
       <module name="016-springboot-dubbo" target="1.8" />
       <module name="017-springboot-junit" target="17" />
+      <module name="017-springboot-RabbitMQ-Consumer" target="17" />
+      <module name="017-springboot-RabbitMQ-Producer" target="17" />
       <module name="interface-api" target="1.8" />
       <module name="service-consumer" target="1.8" />
       <module name="service-provider" target="1.8" />
@@ -64,6 +68,8 @@
       <module name="014-springboot-restful" options="-parameters" />
       <module name="015-springboot-redis" options="-parameters" />
       <module name="016-springboot-dubbo" options="-parameters" />
+      <module name="017-springboot-RabbitMQ-Consumer" options="-parameters" />
+      <module name="017-springboot-RabbitMQ-Producer" options="-parameters" />
       <module name="017-springboot-junit" options="-parameters" />
       <module name="interface-api" options="-parameters" />
       <module name="service-consumer" options="-parameters" />

@@ -15,6 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/014-springboot-restful/014-springboot-restful.iml" filepath="$PROJECT_DIR$/014-springboot-restful/014-springboot-restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/015-springboot-redis/015-springboot-redis.iml" filepath="$PROJECT_DIR$/015-springboot-redis/015-springboot-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/016-springboot-dubbo/016-springboot-dubbo.iml" filepath="$PROJECT_DIR$/016-springboot-dubbo/016-springboot-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-01-springboot-RabbitMQ-Producer/017-01-springboot-RabbitMQ-Producer.iml" filepath="$PROJECT_DIR$/017-01-springboot-RabbitMQ-Producer/017-01-springboot-RabbitMQ-Producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-springboot-RabbitMQ-Consumer/017-springboot-RabbitMQ-Consumer.iml" filepath="$PROJECT_DIR$/017-springboot-RabbitMQ-Consumer/017-springboot-RabbitMQ-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-springboot-RabbitMQ-Producer/017-springboot-RabbitMQ-Producer.iml" filepath="$PROJECT_DIR$/017-springboot-RabbitMQ-Producer/017-springboot-RabbitMQ-Producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-springboot-RabbitMQ/SpringBootProject.iml" filepath="$PROJECT_DIR$/017-springboot-RabbitMQ/SpringBootProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/016-springboot-dubbo/interface-api/interface-api.iml" filepath="$PROJECT_DIR$/016-springboot-dubbo/interface-api/interface-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/016-springboot-dubbo/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/016-springboot-dubbo/service-consumer/service-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/016-springboot-dubbo/service-provider/service-provider.iml" filepath="$PROJECT_DIR$/016-springboot-dubbo/service-provider/service-provider.iml" />

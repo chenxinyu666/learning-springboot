@@ -1,0 +1,8 @@
+#配置RabbitMQ的基本信息：ip、port、username、password
+spring:
+  rabbitmq:
+    host: 192.168.32.128
+    port: 5672
+    username: chenxinyu
+    password: cxy.
+    virtual-host: /itcast

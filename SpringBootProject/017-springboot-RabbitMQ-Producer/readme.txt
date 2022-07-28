@@ -1,0 +1,4 @@
+SpringBoot整合RabbitMQ
+基本信息在配置文件中配置，队列交互机以及绑定关系在配置类中使用@Bean的方式配置
+生产端直接注入RabbitTemplate完成消息发送
+消费端直接使用@RabbitListener完成消息接收
